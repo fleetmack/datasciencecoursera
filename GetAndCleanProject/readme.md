@@ -1,3 +1,4 @@
+readme.txt explains the relationship between all the files used for this data project
 ***********************************************
 ***********************************************
 run_analysis.R contains the scripts which download the data and tidy the data to meet the following demands:
@@ -11,5 +12,5 @@ run_analysis.R contains the scripts which download the data and tidy the data to
 Comments are within the code stating what each step of the code does in order to meet the aforementioned goals.
 ***********************************************
 ***********************************************
-
+CodeBook.md contains descriptions of the variables, data, and transformations to clean the data
 
